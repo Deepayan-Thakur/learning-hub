@@ -1,0 +1,21 @@
+{
+  "Learning": [
+    {
+      "name": "LingoHut",
+      "url": "https://www.lingohut.com/en",
+      "description": "Learn languages interactively"
+    },
+    {
+      "name": "PhET",
+      "url": "https://phet.colorado.edu/",
+      "description": "Physics simulations"
+    }
+  ],
+  "Certifications": [
+    {
+      "name": "McKinsey Forward",
+      "url": "https://www.mckinsey.org/our-programs/forward/overview",
+      "description": "Professional certification"
+    }
+  ]
+}

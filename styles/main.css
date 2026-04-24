@@ -1,0 +1,21 @@
+body {
+  font-family: Arial;
+  background: #0d1117;
+  color: white;
+  padding: 20px;
+}
+
+.category {
+  margin-top: 30px;
+}
+
+.card {
+  background: #161b22;
+  padding: 15px;
+  margin: 10px 0;
+  border-radius: 8px;
+}
+
+a {
+  color: #58a6ff;
+}
