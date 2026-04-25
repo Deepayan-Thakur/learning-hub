@@ -151,7 +151,7 @@ const App: React.FC = () => {
             <h1 className={`text-5xl md:text-7xl font-extrabold tracking-tight mb-6 leading-[1.1] transition-colors ${
               isDarkMode ? 'text-white' : 'text-slate-900'
             }`}>
-              Learn <span className="text-transparent bg-clip-text bg-gradient-to-r from-indigo-500 to-violet-500 italic">Unlimited</span>.
+              Learn <span className="text-transparent bg-clip-text bg-gradient-to-r from-indigo-500 to-violet-500 italic">Unlimited </span>.
             </h1>
             <p className={`text-lg md:text-xl leading-relaxed transition-colors ${
               isDarkMode ? 'text-slate-400' : 'text-slate-500'
